@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-25T18:53-10:00",
+ "updated": "2026-11-25T20:04-10:00",
  "streak": 2,
  "lastDay": "2026-11-25",
  "playedToday": true,
  "tokens": 0,
- "roundsToday": 15,
- "ov": 3.25,
+ "roundsToday": 18,
+ "ov": 3.56,
  "belt": "White belt",
  "sec": {
-  "cp": 2.34,
+  "cp": 3.18,
   "cars": 4.29,
-  "bb": 2.45,
+  "bb": 2.85,
   "ps": 3.94
  },
  "weekDelta": {
-  "cp": 2.34,
+  "cp": 3.18,
   "cars": 4.29,
-  "bb": 2.45,
+  "bb": 2.85,
   "ps": 3.94
  },
- "weekSecs": 3416,
+ "weekSecs": 4117,
  "dueCount": 1,
  "next": {
   "name": "Memory",
