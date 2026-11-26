@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-25T20:04-10:00",
+ "updated": "2026-11-25T22:04-10:00",
  "streak": 2,
  "lastDay": "2026-11-25",
  "playedToday": true,
  "tokens": 0,
- "roundsToday": 18,
- "ov": 3.56,
+ "roundsToday": 22,
+ "ov": 3.89,
  "belt": "White belt",
  "sec": {
-  "cp": 3.18,
+  "cp": 4.1,
   "cars": 4.29,
-  "bb": 2.85,
-  "ps": 3.94
+  "bb": 3.15,
+  "ps": 4.01
  },
  "weekDelta": {
-  "cp": 3.18,
+  "cp": 4.1,
   "cars": 4.29,
-  "bb": 2.85,
-  "ps": 3.94
+  "bb": 3.15,
+  "ps": 4.01
  },
- "weekSecs": 4117,
- "dueCount": 1,
+ "weekSecs": 4561,
+ "dueCount": 0,
  "next": {
-  "name": "Memory",
-  "sec": "P/S"
+  "name": "Enzyme inhibition & regulation",
+  "sec": "B/B"
  }
 }
