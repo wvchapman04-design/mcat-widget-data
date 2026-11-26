@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-26T10:04-10:00",
+ "updated": "2026-11-26T11:04-10:00",
  "streak": 3,
  "lastDay": "2026-11-26",
  "playedToday": true,
  "tokens": 0,
- "roundsToday": 6,
- "ov": 5.7,
+ "roundsToday": 8,
+ "ov": 6.1,
  "belt": "White belt · 1 stripe",
  "sec": {
-  "cp": 4.1,
+  "cp": 5.01,
   "cars": 8.57,
   "bb": 5.11,
-  "ps": 5.02
+  "ps": 5.71
  },
  "weekDelta": {
-  "cp": 4.1,
+  "cp": 5.01,
   "cars": 8.57,
   "bb": 5.11,
-  "ps": 5.02
+  "ps": 5.71
  },
- "weekSecs": 5549,
+ "weekSecs": 5859,
  "dueCount": 0,
  "next": {
-  "name": "Electrostatics",
+  "name": "Circuits",
   "sec": "C/P"
  }
 }
