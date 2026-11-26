@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-25T22:04-10:00",
+ "updated": "2026-11-25T23:04-10:00",
  "streak": 2,
  "lastDay": "2026-11-25",
  "playedToday": true,
  "tokens": 0,
- "roundsToday": 22,
- "ov": 3.89,
- "belt": "White belt",
+ "roundsToday": 23,
+ "ov": 4.09,
+ "belt": "White belt · 1 stripe",
  "sec": {
   "cp": 4.1,
   "cars": 4.29,
-  "bb": 3.15,
+  "bb": 3.96,
   "ps": 4.01
  },
  "weekDelta": {
   "cp": 4.1,
   "cars": 4.29,
-  "bb": 3.15,
+  "bb": 3.96,
   "ps": 4.01
  },
- "weekSecs": 4561,
+ "weekSecs": 4695,
  "dueCount": 0,
  "next": {
-  "name": "Enzyme inhibition & regulation",
+  "name": "Carbohydrates",
   "sec": "B/B"
  }
 }
