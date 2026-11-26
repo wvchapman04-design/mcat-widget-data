@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-26T08:04-10:00",
+ "updated": "2026-11-26T10:04-10:00",
  "streak": 3,
  "lastDay": "2026-11-26",
  "playedToday": true,
  "tokens": 0,
- "roundsToday": 2,
- "ov": 4.34,
+ "roundsToday": 6,
+ "ov": 5.7,
  "belt": "White belt · 1 stripe",
  "sec": {
   "cp": 4.1,
-  "cars": 4.29,
-  "bb": 3.96,
+  "cars": 8.57,
+  "bb": 5.11,
   "ps": 5.02
  },
  "weekDelta": {
   "cp": 4.1,
-  "cars": 4.29,
-  "bb": 3.96,
+  "cars": 8.57,
+  "bb": 5.11,
   "ps": 5.02
  },
- "weekSecs": 4848,
+ "weekSecs": 5549,
  "dueCount": 0,
  "next": {
-  "name": "Carbohydrates",
-  "sec": "B/B"
+  "name": "Electrostatics",
+  "sec": "C/P"
  }
 }
