@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-25T23:04-10:00",
+ "updated": "2026-11-26T06:04-10:00",
  "streak": 2,
  "lastDay": "2026-11-25",
- "playedToday": true,
+ "playedToday": false,
  "tokens": 0,
- "roundsToday": 23,
+ "roundsToday": 0,
  "ov": 4.09,
  "belt": "White belt · 1 stripe",
  "sec": {
@@ -20,9 +20,9 @@
   "ps": 4.01
  },
  "weekSecs": 4695,
- "dueCount": 0,
+ "dueCount": 1,
  "next": {
-  "name": "Carbohydrates",
-  "sec": "B/B"
+  "name": "Sensation & thresholds",
+  "sec": "P/S"
  }
 }
