@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-27T06:04-10:00",
- "streak": 3,
- "lastDay": "2026-11-26",
- "playedToday": false,
+ "updated": "2026-11-27T08:04-10:00",
+ "streak": 4,
+ "lastDay": "2026-11-27",
+ "playedToday": true,
  "tokens": 0,
- "roundsToday": 0,
- "ov": 6.33,
- "belt": "White belt · 1 stripe",
+ "roundsToday": 11,
+ "ov": 8.86,
+ "belt": "White belt · 2 stripes",
  "sec": {
-  "cp": 5.87,
-  "cars": 8.57,
-  "bb": 5.11,
-  "ps": 5.79
+  "cp": 6.22,
+  "cars": 12.86,
+  "bb": 6.79,
+  "ps": 9.55
  },
  "weekDelta": {
-  "cp": 5.87,
-  "cars": 8.57,
-  "bb": 5.11,
-  "ps": 5.79
+  "cp": 6.22,
+  "cars": 12.86,
+  "bb": 6.79,
+  "ps": 9.55
  },
- "weekSecs": 6059,
+ "weekSecs": 8333,
  "dueCount": 0,
  "next": {
-  "name": "Lipids",
-  "sec": "B/B"
+  "name": "Magnetism",
+  "sec": "C/P"
  }
 }
