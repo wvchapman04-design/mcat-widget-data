@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:04-10:00",
+ "updated": "2026-11-26T18:04-10:00",
  "streak": 3,
  "lastDay": "2026-11-26",
  "playedToday": true,
@@ -20,9 +20,9 @@
   "ps": 5.71
  },
  "weekSecs": 5859,
- "dueCount": 0,
+ "dueCount": 1,
  "next": {
-  "name": "Circuits",
-  "sec": "C/P"
+  "name": "Perception",
+  "sec": "P/S"
  }
 }
