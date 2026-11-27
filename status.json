@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T08:04-10:00",
+ "updated": "2026-11-27T11:04-10:00",
  "streak": 4,
  "lastDay": "2026-11-27",
  "playedToday": true,
@@ -20,9 +20,9 @@
   "ps": 9.55
  },
  "weekSecs": 8333,
- "dueCount": 0,
+ "dueCount": 1,
  "next": {
-  "name": "Magnetism",
-  "sec": "C/P"
+  "name": "Amino acids",
+  "sec": "B/B"
  }
 }
