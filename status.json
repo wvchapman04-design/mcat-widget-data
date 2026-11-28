@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-27T19:03-10:00",
+ "updated": "2026-11-27T20:04-10:00",
  "streak": 4,
  "lastDay": "2026-11-27",
  "playedToday": true,
  "tokens": 0,
- "roundsToday": 11,
- "ov": 8.86,
+ "roundsToday": 12,
+ "ov": 8.87,
  "belt": "White belt · 2 stripes",
  "sec": {
   "cp": 6.22,
   "cars": 12.86,
   "bb": 6.79,
-  "ps": 9.55
+  "ps": 9.62
  },
  "weekDelta": {
   "cp": 6.22,
   "cars": 12.86,
   "bb": 6.79,
-  "ps": 9.55
+  "ps": 9.62
  },
- "weekSecs": 8333,
+ "weekSecs": 8366,
  "dueCount": 4,
  "next": {
-  "name": "Attention",
-  "sec": "P/S"
+  "name": "Forces & Newton's laws",
+  "sec": "C/P"
  }
 }
