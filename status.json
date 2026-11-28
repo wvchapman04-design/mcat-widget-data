@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:04-10:00",
+ "updated": "2026-11-27T23:04-10:00",
  "streak": 4,
  "lastDay": "2026-11-27",
  "playedToday": true,
@@ -20,9 +20,9 @@
   "ps": 9.62
  },
  "weekSecs": 8491,
- "dueCount": 1,
+ "dueCount": 2,
  "next": {
-  "name": "Gas laws",
-  "sec": "C/P"
+  "name": "Enzyme inhibition & regulation",
+  "sec": "B/B"
  }
 }
