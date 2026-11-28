@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-27T23:04-10:00",
+ "updated": "2026-11-28T06:04-10:00",
  "streak": 4,
  "lastDay": "2026-11-27",
- "playedToday": true,
+ "playedToday": false,
  "tokens": 0,
- "roundsToday": 13,
+ "roundsToday": 0,
  "ov": 8.89,
  "belt": "White belt · 2 stripes",
  "sec": {
@@ -20,9 +20,9 @@
   "ps": 9.62
  },
  "weekSecs": 8491,
- "dueCount": 2,
+ "dueCount": 4,
  "next": {
-  "name": "Enzyme inhibition & regulation",
-  "sec": "B/B"
+  "name": "Forces & Newton's laws",
+  "sec": "C/P"
  }
 }
