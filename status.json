@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T18:04-10:00",
+ "updated": "2026-11-27T19:03-10:00",
  "streak": 4,
  "lastDay": "2026-11-27",
  "playedToday": true,
@@ -20,9 +20,9 @@
   "ps": 9.55
  },
  "weekSecs": 8333,
- "dueCount": 2,
+ "dueCount": 4,
  "next": {
-  "name": "Forces & Newton's laws",
-  "sec": "C/P"
+  "name": "Attention",
+  "sec": "P/S"
  }
 }
